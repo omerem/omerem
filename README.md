@@ -26,7 +26,7 @@
          Java
        * [priority queue]  
    * #### System programming laboratory
-         C, C++
+        C, C++, makefile
        * [file system]
        * [laboratory #1]
        * [laboratory #2]
