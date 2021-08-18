@@ -1,17 +1,21 @@
 # Code
 * ### *DL, AI*
     * ### Introduction to artificial intelligence
+         python, Jupyter notebook
        * [iai #1]
        * [iai #2]
        * [iai #3]
        * [iai #4]
     * ### Introduction to learning and analysis of big data
+         Matlab
        * [inbd #1]
        * [inbd #2]
     * ### Practical Deep Learning
+         python, Jupyter notebook
        * [dl #1]
        * [dl #2]
     * ### Computer vision
+         python, Jupyter notebook
        * [cv #2]
        * [cv #5]
        * [cv #6]
@@ -19,8 +23,10 @@
        * [cv #8]
  * ### *General*
      * #### Data structres
+         Java
        * [priority queue]  
    * #### System programming laboratory
+         C, C++
        * [file system]
        * [laboratory #1]
        * [laboratory #2]
@@ -31,10 +37,12 @@
        * [laboratory #8]
        * [laboratory #9]
    * ### Principles of programming languages
+        TypeScript, Scheme (Racket)
        * [pl #1]
        * [pl #2]
        * [pl #5]
    * ### Systems programming
+      C++
        * [spl #1]
 
 
