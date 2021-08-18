@@ -20,7 +20,6 @@
  * ### *General*
      * #### Data structres
        * [priority queue]  
-   * 
    * #### System programming laboratory
        * [file system]
        * [laboratory #1]
