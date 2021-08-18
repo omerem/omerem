@@ -28,7 +28,6 @@
        * [laboratory #4]
        * [laboratory #5]
        * [laboratory #6]
-       * [laboratory #7]
        * [laboratory #8]
        * [laboratory #9]
    * ### Principles of programming languages
