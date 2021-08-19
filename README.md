@@ -37,9 +37,10 @@
        * [laboratory #8]
        * [laboratory #9]
    * ### Principles of programming languages
-        TypeScript, Scheme (Racket)
+        TypeScript, Prolog, Scheme (Racket)
        * [pl #1]
        * [pl #2]
+       * [pl #4]
        * [pl #5]
    * ### Systems programming
       C++
@@ -52,6 +53,7 @@
 
 [pl #1]: <https://github.com/omerem/pl-1>
 [pl #2]: <https://github.com/omerem/pl-2>
+[pl #4]: <https://github.com/omerem/pl-4>
 [pl #5]: <https://github.com/omerem/pl-5>
 
 [cv #2]: <https://github.com/omerem/cv-2>
