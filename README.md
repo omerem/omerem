@@ -24,7 +24,10 @@
  * ### *General*
      * #### Data structres
          Java
-       * [priority queue]  
+       * [priority queue]   
+   * ### Systems programming
+      C++
+       * [spl #1]
    * #### System programming laboratory
         C, C++, makefile
        * [file system]
@@ -41,10 +44,6 @@
        * [pl #1]
        * [pl #4]
        * [pl #5]
-   * ### Systems programming
-      C++
-       * [spl #1]
-
 
 
 [spl #1]: <https://github.com/omerem/spl-1>
