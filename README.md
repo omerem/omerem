@@ -30,7 +30,6 @@
        * [spl #1]
    * #### System programming laboratory
         C, C++, makefile
-       * [file system]
        * [laboratory #1]
        * [laboratory #2]
        * [laboratory #3]
@@ -76,7 +75,6 @@
 
 
 [priority queue]: <https://github.com/omerem/Data-Structures_PriorityQueue>
-[file system]: <https://github.com/omerem/Sys-Prog_FileSystem>
 [laboratory #1]: <https://github.com/omerem/Sys_Prog_Lab-1>
 [laboratory #2]: <https://github.com/omerem/Sys_Prog_Lab-2>
 [laboratory #3]: <https://github.com/omerem/Sys_Prog_Lab-3>
