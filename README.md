@@ -9,11 +9,7 @@
     * ### Introduction to learning and analysis of big data
          Matlab
        * [inbd #1]
-       * [inbd #2]
-    * ### Practical Deep Learning
-         python, Jupyter notebook
-       * [dl #1]
-       * [dl #2]
+       * [inbd #2] 
     * ### Computer vision
          python, Jupyter notebook
        * [cv #2]
@@ -21,6 +17,10 @@
        * [cv #6]
        * [cv #7]
        * [cv #8]
+    * ### Practical Deep Learning
+         python, Jupyter notebook
+       * [dl #1]
+       * [dl #2]
  * ### *General*
      * #### Data structres
          Java
