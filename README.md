@@ -17,7 +17,7 @@
        * [cv #6]
        * [cv #7]
        * [cv #8]
-    * ### Practical Deep Learning
+    [comment]: <> (* ### Practical Deep Learning)
          python, Jupyter notebook
        * [dl #1]
        * [dl #2]
