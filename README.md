@@ -6,10 +6,6 @@
        * [iai #2]
        * [iai #3]
        * [iai #4]
-    * ### Introduction to learning and analysis of big data
-         Matlab
-       * [inbd #1]
-       * [inbd #2] 
     * ### Computer vision
          python, Jupyter notebook
        * [cv #2]
@@ -17,6 +13,10 @@
        * [cv #6]
        * [cv #7]
        * [cv #8]
+    * ### Introduction to learning and analysis of big data
+         Matlab
+       * [inbd #1]
+       * [inbd #2] 
  * ### *General*
      * #### Data structres
          Java
