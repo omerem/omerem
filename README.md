@@ -2,7 +2,6 @@
 * ### *DL, AI*
     * ### Introduction to artificial intelligence
          python, Jupyter notebook
-       * [iai #1]
        * [iai #2]
        * [iai #3]
        * [iai #4]
